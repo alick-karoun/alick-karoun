@@ -8,7 +8,7 @@
 
 ## Operating principles
 
-<pre><code>ROLE        = Frontend or full-stack engineer
+<pre><code>ROLE        = Student in DevOps
 LOCATION    = remote
 PUBLIC_REPOS = 9
 COMMUNITY   = 0 followers</code></pre>
