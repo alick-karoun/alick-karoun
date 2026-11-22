@@ -4,11 +4,11 @@
   <img src="https://www.gitskins.com/api/section/hero?username=alick-karoun&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F144825686%3Fu%3D51d16e6371b027d993ce49f2c516d13c4e423d0e%26v%3D4" alt="alick-karoun hero visual" />
 </p>
 
-**Alick** · Frontend or full-stack engineer
+**Alick** · Student in DevOps and IT, just learning :)
 
 ## Operating principles
 
-<pre><code>ROLE        = Student in DevOps
+<pre><code>ROLE        = Cloud/DevOps Engineering 
 LOCATION    = remote
 PUBLIC_REPOS = 9
 COMMUNITY   = 0 followers</code></pre>
